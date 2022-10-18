@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Destinos</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body class="Destinos">
+        <header class="header">
+            <div class="header-navBar">
+                <div>
+                    <img src="/imagenes/logo.jpg" alt="">
+                </div>
+                <nav id="nav" class="nav">
+                    <a href="index.html">Home</a>
+                    <a href="hoteles.html">Hoteles</a>
+                    <a href="destinos.html">Destinos</a>
+                    <a href="Contactos.html">Contacto</a>
+                </nav>
+                    <button id="Navb" class="Navb">Menú</button>
+        </div>
+        <div class="header-titulo">
+            <h1 class="subrayado">
+                Bienvenidos a Travel Life
+            </h1>
+        </div>
+        <div class="header-flecha">
+            <img src="/imagenes/Flecha.png" alt="">
+        </div>
+    </header>
+
+<main class="main">
+
+<div class="tabla-container">
+<table class="tabla" id="cont">
+    <thead>
+    <tr>
+        <th>Id</th>
+        <th>Destinos</th>
+        <th>Precios</th>
+        <th>fechas</th>
+        <th>Editar</th>
+        <th>Borrar</th>
+    </tr>
+</thead>
+    <tbody id="tablaApi">                
+    </tbody>
+</table>
+
+</div>
+
+<div class="tabla">
+<input type="text" id="destino" placeholder="Destino"> 
+<input type="text" id="fecha" placeholder="Fecha">
+<input type="text" id="precio" placeholder="Precio">
+
+<button id="btnCrear">cargar ejemplo</button>
+<button id="cargar">cargar datos</button>
+<input type="button" value="borrar todos los datos" id="borrar"/>
+</div>
+
+
+
+<div class="container">
+    <div class="container-titulo">
+        <h1 class="subrayado titulosurf">Mejores lugares para surfear:</h1>
+    </div>
+    <div class="container-info">
+        <div class="container-lista">
+            <ol>
+                <li>Australia</li>
+                <li>Maldivas</li>
+                <li>Porto Galina</li>
+            </ol>
+        </div>
+        <div class="container-imagen">
+                <img src="/imagenes/tablas de surf.jpg" class="surf-img" alt="tablas de surf">
+        </div>
+    </div>
+</div>
+
+
+</main>
+<script src="/js/menu.js"></script>
+<script src="/js/tabla.js"></script>
+</body>
+</html>
