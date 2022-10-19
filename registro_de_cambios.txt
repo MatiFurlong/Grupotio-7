@@ -3,3 +3,4 @@ REGISTRO DE CAMBIOS TPE TIO:
 
 1- Ivan Batalla 18/10: "añadido pagina web y registro de cambios"
 2- Matias Furlong 19/10: "modificado el subrayado del titulo"
+3- Ivan Batalla 19/10: "cambio en los planes de subscripcion"
