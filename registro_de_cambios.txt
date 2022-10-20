@@ -6,3 +6,4 @@ REGISTRO DE CAMBIOS TPE TIO:
 3- Ivan Batalla 19/10: "cambio en los planes de subscripcion"
 4- Matias Furlong 19/10: "Modifique filtro de barra de navegacion"
 5- Maximiliano Gigena 20/10: "Modifique texto del index"
+6- Maximiliano Gigena 20/10: "Agrego 2 inputs en formulario de contacto (DNI- EDAD)"
