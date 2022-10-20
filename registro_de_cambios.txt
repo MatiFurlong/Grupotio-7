@@ -5,3 +5,4 @@ REGISTRO DE CAMBIOS TPE TIO:
 2- Matias Furlong 19/10: "modificado el subrayado del titulo"
 3- Ivan Batalla 19/10: "cambio en los planes de subscripcion"
 4- Matias Furlong 19/10: "Modifique filtro de barra de navegacion"
+5- Maximiliano Gigena 20/10: "Modifique texto del index"
