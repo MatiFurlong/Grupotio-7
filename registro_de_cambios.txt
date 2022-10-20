@@ -7,3 +7,5 @@ REGISTRO DE CAMBIOS TPE TIO:
 4- Matias Furlong 19/10: "Modifique filtro de barra de navegacion"
 5- Maximiliano Gigena 20/10: "Modifique texto del index"
 6- Maximiliano Gigena 20/10: "Agrego 2 inputs en formulario de contacto (DNI- EDAD)"
+7- Agustin Gaviña 20/10: "Correccion de destino de las imagenes (ya que no se veian)
+   y correccion de estructura del codigo para que sea mas legible"
