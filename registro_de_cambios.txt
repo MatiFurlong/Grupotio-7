@@ -10,3 +10,4 @@ REGISTRO DE CAMBIOS TPE TIO:
 7- Agustin Gaviña 20/10: "Correccion de destino de las imagenes (ya que no se veian)
    y correccion de estructura del codigo para que sea mas legible"
 8- Ivan Batalla 20/10: cambio en el header de todos los html
+9- Nicolas Federico Hsieh 22/10: "correcion de fondo de imagen"
