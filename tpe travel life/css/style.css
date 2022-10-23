@@ -288,33 +288,24 @@ li a.active, li a:hover{
   display: flex;
 }
 
-
-.hotelpor {
-  font-size: 5%;
-}
-
-.portogalina {
-  margin: 25px;
-  padding: 5px;
-  border: 3px;
-}
-
-.hotelmaldivas {
-  margin: 25px;
-  padding: 5px;
-  border: 3px;
-  width: 350px;
-  height: 256px;
-}
-
-.hotelairliebeach {
+/*Inicio: Hoteles.html*/
+.info-hotel__contenedor{
   display: flex;
-  margin: 25px;
-  padding: 5px;
-  border: 3px;
-  width: 350px;
-  height: 256px;
+  justify-content: space-between;
+  flex-wrap: wrap;
 }
+.info-hotel{
+  margin: 20px;
+}
+.info-hotel p{
+  width: 450px;
+}
+.foto-hotel {
+  width: 350px;
+  margin: 10px;
+}
+
+/*Termina: Hoteles.html*/
 
 .tabla-container {
   padding-top: 5%;
@@ -328,11 +319,8 @@ li a.active, li a:hover{
   border-collapse: collapse;
 }
 
-.tabla,
-.tabla th,
-.tabla td {
+.tabla, .tabla th, .tabla td {
   border: 1px solid #00D1FF;
-
 }
 
 .titulosurf {
