@@ -9,5 +9,8 @@ REGISTRO DE CAMBIOS TPE TIO:
 6- Maximiliano Gigena 20/10: "Agrego 2 inputs en formulario de contacto (DNI- EDAD)"
 7- Agustin Gaviña 20/10: "Correccion de destino de las imagenes (ya que no se veian)
    y correccion de estructura del codigo para que sea mas legible"
-8- Ivan Batalla 20/10: cambio en el header de todos los html
+8- Ivan Batalla 20/10: "cambio en el header de todos los html"
 9- Nicolas Federico Hsieh 22/10: "correcion de fondo de imagen"
+10- Agustin Gaviña 23/10: "nuevo estilo de la pagina (solo el index)"
+11- Agustin Gaviña 23/10: "se establecio la nueva barra de navegacion en los otros html
+    y se ajusto el contenido de la pestaña viajes"
