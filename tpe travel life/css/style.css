@@ -42,7 +42,7 @@
 
   /* Setting the background image of the header. */
   .header {
-    background-image: url(../imagenes/Business-Travel-Header-Image.jpg);
+    background-image: url(../imagenes/airplane.webp);
     background-blend-mode: multiply;
     background-size: cover;
   }
@@ -521,7 +521,7 @@
   /* HEADER */
 
   .header {
-    background-image: url(../imagenes/Business-Travel-Header-Image.jpg);
+    background-image: url(../imagenes/airplane.webp);
     background-blend-mode: multiply;
     background-size: cover;
   }
