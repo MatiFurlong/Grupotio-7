@@ -26,7 +26,7 @@
   .subrayado {
     text-decoration: underline;
     text-underline-position: under;
-    text-decoration-color: #002fff;
+    text-decoration-color: rgb(255, 0, 0);
   }
 
   html {
