@@ -1,5 +1,5 @@
 
-REGISTRO DE CAMBIOS TPE TIO:
+MODIFICACIONES DE PAGINAS TPE TIO:
 
 1- Ivan Batalla 18/10: "añadido pagina web y registro de cambios"
 2- Matias Furlong 19/10: "modificado el subrayado del titulo"
