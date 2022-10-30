@@ -16,16 +16,15 @@
   }
 
   body {
-    font-family: 'arial';
-    color: whitesmoke;
-    font-weight: bold;
+    font-family: 'Nunito Sans';
+    color: white;
     margin: 0;
     padding: 0;
     width: 100%;
   }
 
   .subrayado {
-    text-decoration: none;
+    text-decoration: underline;
     text-underline-position: under;
     text-decoration-color: rgb(255, 0, 0);
   }
@@ -86,7 +85,7 @@
   .header-titulo {
     text-align: center;
     font-size: 2rem;
-    font-family:Georgia, 'Times New Roman', Times, serif
+    color: rgb(255, 255, 255);
   }
 
   .header-titulo h1 {
