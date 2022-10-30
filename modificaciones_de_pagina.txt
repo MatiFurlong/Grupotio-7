@@ -14,3 +14,5 @@ REGISTRO DE CAMBIOS TPE TIO:
 10- Agustin Gaviña 23/10: "nuevo estilo de la pagina (solo el index)"
 11- Agustin Gaviña 23/10: "se establecio la nueva barra de navegacion en los otros html
     y se ajusto el contenido de la pestaña viajes"
+12- Malena Manzalini 24/10: "Añadidas descripciones alt para las imagenes de servicios y logos"
+13- Matias Zarate 24/10: "elimina circulo negro"
