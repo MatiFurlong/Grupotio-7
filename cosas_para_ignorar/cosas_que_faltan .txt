@@ -1,3 +1,0 @@
-informe
-eliminar archivo
-archivo git ignore
