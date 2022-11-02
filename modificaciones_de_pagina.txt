@@ -17,3 +17,4 @@ REGISTRO DE CAMBIOS TPE TIO:
 12- Malena Manzalini 24/10: "Añadidas descripciones alt para las imagenes de servicios y logos"
 13- Matias Zarate 24/10: "elimina circulo negro"
 14- Matias Furlong 30/10: "Modifique tipografia de texto" 
+15- Ivan batalla 2/11: "Añadido git ignore"
