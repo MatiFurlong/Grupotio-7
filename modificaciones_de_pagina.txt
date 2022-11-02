@@ -18,3 +18,4 @@ REGISTRO DE CAMBIOS TPE TIO:
 13- Matias Zarate 24/10: "elimina circulo negro"
 14- Matias Furlong 30/10: "Modifique tipografia de texto" 
 15- Ivan batalla 2/11: "Añadido git ignore"
+16- Ivan batalla 2/11: "Creado y eliminado archivo cosas que faltan"
